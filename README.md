@@ -10,7 +10,7 @@ I'm [jarooda](https://www.jarooda.github.io/) or you can call me Jalu . I’m cu
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
+![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Expressjs)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=Sequelize)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=Postgresql)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest)
