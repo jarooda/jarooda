@@ -25,7 +25,7 @@ I'm [jarooda](https://www.jarooda.github.io/) or you can call me Jalu . I’m cu
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jarooda&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarooda&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarooda&theme=vue&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jarooda.jarooda)
 ![](https://hit.yhype.me/github/profile?user_id=71919479)
