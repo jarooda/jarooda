@@ -19,6 +19,7 @@ I'm [jarooda](https://jarooda.github.io/) or you can call me Jalu . I’m curren
 ![Vuejs](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue.js)
 ![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat-square&logo=Jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=Bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-black?style=flat-square&logo=Tailwindcss)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
