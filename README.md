@@ -1,6 +1,6 @@
 ## Hello there 👋 
 
-I'm [jarooda](https://jarooda.github.io/) or you can call me Jalu. I’m currently learning Fullstack Javascript at [Hacktiv8 Bootcamp](https://www.hacktiv8.com/), you can contact me and know about me here:
+I'm [jarooda](https://jarooda.github.io/) or you can call me Jalu. I’m a Fullstack Javascript developer graduated from [Hacktiv8 Bootcamp](https://www.hacktiv8.com/), you can contact me and know about me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-jaluwibowoaji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jalu-wibowo-aji-25a09b180/)](https://www.linkedin.com/in/jalu-wibowo-aji-25a09b180/)
 [![Twitter Badge](https://img.shields.io/badge/-jaIu-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jaIu_)](https://twitter.com/jaIu_)
@@ -11,7 +11,9 @@ I'm [jarooda](https://jarooda.github.io/) or you can call me Jalu. I’m current
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Expressjs](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
+![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat-square&logo=Graphql)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=Postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3)
