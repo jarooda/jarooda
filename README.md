@@ -1,6 +1,6 @@
 ## Hello there 👋 
 
-I'm [jarooda](https://jarooda.github.io/) or you can call me Jalu. I’m a Fullstack Javascript developer graduated from [Hacktiv8 Bootcamp](https://www.hacktiv8.com/), you can contact me and know about me here:
+I'm [jarooda](https://jaluwibowo.id/) or you can call me Jalu. I’m a Fullstack Javascript developer graduated from [Hacktiv8 Bootcamp](https://www.hacktiv8.com/), you can contact me and know about me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-jaluwibowoaji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jalu-wibowo-aji-25a09b180/)](https://www.linkedin.com/in/jalu-wibowo-aji-25a09b180/)
 [![Twitter Badge](https://img.shields.io/badge/-jaIu-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jaIu_)](https://twitter.com/jaIu_)
