@@ -1,4 +1,4 @@
-## Hello there 👋 
+## Hello stranger,
 
 I'm [jarooda](https://jaluwibowo.id/) or you can call me Jalu. I’m a Frontend Developer at [Sekolah.mu](https://www.sekolah.mu/).
 
