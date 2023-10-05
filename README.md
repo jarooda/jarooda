@@ -1,6 +1,6 @@
-## Hello stranger,
+## Hi,
 
-I'm [jarooda](https://jaluwibowo.id/) or you can call me Jalu. I’m a Frontend Developer at [Sekolah.mu](https://www.sekolah.mu/).
+I'm [jarooda](https://jaluwibowo.id/) or you can call me Jalu. Let's collaborate!
 
 [![@jarooda's Holopin board](https://holopin.io/api/user/board?user=jarooda)](https://holopin.io/@jarooda)
 
