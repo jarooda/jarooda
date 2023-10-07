@@ -1,4 +1,4 @@
-## Hi,
+## Hello
 
 I'm [jarooda](https://jaluwibowo.id/) or you can call me Jalu. Let's collaborate!
 
