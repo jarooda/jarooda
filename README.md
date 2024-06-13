@@ -50,9 +50,9 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jarooda/my-packages/pull/2) in [jarooda/my-packages](https://github.com/jarooda/my-packages)
-2. 💪 Opened PR [#2](https://github.com/jarooda/my-packages/pull/2) in [jarooda/my-packages](https://github.com/jarooda/my-packages)
-3. 🎉 Merged PR [#1](https://github.com/jarooda/my-games/pull/1) in [jarooda/my-games](https://github.com/jarooda/my-games)
-4. 💪 Opened PR [#1](https://github.com/jarooda/my-games/pull/1) in [jarooda/my-games](https://github.com/jarooda/my-games)
-5. 🎉 Merged PR [#1](https://github.com/jarooda/my-packages/pull/1) in [jarooda/my-packages](https://github.com/jarooda/my-packages)
+1. ❗ Opened issue [#37](https://github.com/jarooda/jarooda.github.io/issues/37) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+2. 🎉 Merged PR [#1](https://github.com/jarooda/jarooda/pull/1) in [jarooda/jarooda](https://github.com/jarooda/jarooda)
+3. 💪 Opened PR [#1](https://github.com/jarooda/jarooda/pull/1) in [jarooda/jarooda](https://github.com/jarooda/jarooda)
+4. 🎉 Merged PR [#2](https://github.com/jarooda/my-packages/pull/2) in [jarooda/my-packages](https://github.com/jarooda/my-packages)
+5. 💪 Opened PR [#2](https://github.com/jarooda/my-packages/pull/2) in [jarooda/my-packages](https://github.com/jarooda/my-packages)
 <!--END_SECTION:activity-->
