@@ -50,3 +50,9 @@
 </details>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/jarooda/my-packages/pull/2) in [jarooda/my-packages](https://github.com/jarooda/my-packages)
+2. 💪 Opened PR [#2](https://github.com/jarooda/my-packages/pull/2) in [jarooda/my-packages](https://github.com/jarooda/my-packages)
+3. 🎉 Merged PR [#1](https://github.com/jarooda/my-games/pull/1) in [jarooda/my-games](https://github.com/jarooda/my-games)
+4. 💪 Opened PR [#1](https://github.com/jarooda/my-games/pull/1) in [jarooda/my-games](https://github.com/jarooda/my-games)
+5. 🎉 Merged PR [#1](https://github.com/jarooda/my-packages/pull/1) in [jarooda/my-packages](https://github.com/jarooda/my-packages)
+<!--END_SECTION:activity-->
