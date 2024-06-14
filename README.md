@@ -20,32 +20,35 @@
   <samp>
   <b><h2 style="color:#228B22"> 👇 L E T ' S &nbsp; G O 👇 </h2></b>
 
-  <a
-    style="display: flex; align-items: center; color:#228B22;"
-    rel="nofollow noopener noreferrer"
-    target="_blank"
-    href="https://www.linkedin.com/in/jaluwibowoaji/">
+  <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/jarooda/jarooda/main/assets/line-md--linkedin.svg" alt="linkedin logo">
-    <span>Jalu Wibowo Aji</span>
-  </a>
+    <a
+      rel="nofollow noopener noreferrer"
+      target="_blank"
+      href="https://www.linkedin.com/in/jaluwibowoaji/">
+      Jalu Wibowo Aji
+    </a>
+  </div>
 
-  <a
-    style="display: flex; align-items: center; color:#228B22;"
-    rel="nofollow noopener noreferrer"
-    target="_blank"
-    href="https://x.com/jaluwibowoaji">
+  <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/jarooda/jarooda/main/assets/line-md--twitter-x-alt.svg" alt="x logo">
-    <span>@jaluwibowo</span>
-  </a>
+    <a
+      rel="nofollow noopener noreferrer"
+      target="_blank"
+      href="https://x.com/jaluwibowoaji">
+      @jaluwibowo
+    </a>
+  </div>
 
-  <a
-  style="display: flex; align-items: flex-end; color:#228B22;"
-  rel="nofollow noopener noreferrer"
-  target="_blank"
-  href="https://www.jaluwibowo.id/#contactme">
+  <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/jarooda/jarooda/main/assets/line-md--email.svg" alt="email logo">
-    <span>me@jaluwibowo.id</span>
-  </a>
+    <a
+      rel="nofollow noopener noreferrer"
+      target="_blank"
+      href="https://www.jaluwibowo.id/#contactme">
+      me@jaluwibowo.id
+    </a>
+  </div>
   </samp>
 </details>
 
