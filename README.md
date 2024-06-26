@@ -53,9 +53,9 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/pndek-in/frontend-home/pull/9) in [pndek-in/frontend-home](https://github.com/pndek-in/frontend-home)
-2. 🎉 Merged PR [#8](https://github.com/jarooda/image-manager/pull/8) in [jarooda/image-manager](https://github.com/jarooda/image-manager)
-3. ❗ Opened issue [#37](https://github.com/jarooda/jarooda.github.io/issues/37) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-4. 🎉 Merged PR [#1](https://github.com/jarooda/jarooda/pull/1) in [jarooda/jarooda](https://github.com/jarooda/jarooda)
-5. 💪 Opened PR [#1](https://github.com/jarooda/jarooda/pull/1) in [jarooda/jarooda](https://github.com/jarooda/jarooda)
+1. 🗣 Commented on [#38](https://github.com/jarooda/jarooda.github.io/issues/38#issuecomment-2191722406) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+2. 🎉 Merged PR [#9](https://github.com/pndek-in/frontend-home/pull/9) in [pndek-in/frontend-home](https://github.com/pndek-in/frontend-home)
+3. 🎉 Merged PR [#8](https://github.com/jarooda/image-manager/pull/8) in [jarooda/image-manager](https://github.com/jarooda/image-manager)
+4. ❗ Opened issue [#37](https://github.com/jarooda/jarooda.github.io/issues/37) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+5. 🎉 Merged PR [#1](https://github.com/jarooda/jarooda/pull/1) in [jarooda/jarooda](https://github.com/jarooda/jarooda)
 <!--END_SECTION:activity-->
