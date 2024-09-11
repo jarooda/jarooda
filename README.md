@@ -53,9 +53,9 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/pndek-in/backend/pull/15) in [pndek-in/backend](https://github.com/pndek-in/backend)
-2. 💪 Opened PR [#15](https://github.com/pndek-in/backend/pull/15) in [pndek-in/backend](https://github.com/pndek-in/backend)
-3. 🗣 Commented on [#586](https://github.com/nuxt-community/axios-module/issues/586#issuecomment-2309256968) in [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module)
-4. 🗣 Commented on [#39](https://github.com/jarooda/jarooda.github.io/issues/39#issuecomment-2193635653) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-5. 🗣 Commented on [#38](https://github.com/jarooda/jarooda.github.io/issues/38#issuecomment-2191722406) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+1. 🎉 Merged PR [#14](https://github.com/Learn-Pronounciation-Game-Team/LPG-Server/pull/14) in [Learn-Pronounciation-Game-Team/LPG-Server](https://github.com/Learn-Pronounciation-Game-Team/LPG-Server)
+2. 💪 Opened PR [#14](https://github.com/Learn-Pronounciation-Game-Team/LPG-Server/pull/14) in [Learn-Pronounciation-Game-Team/LPG-Server](https://github.com/Learn-Pronounciation-Game-Team/LPG-Server)
+3. 🎉 Merged PR [#15](https://github.com/pndek-in/backend/pull/15) in [pndek-in/backend](https://github.com/pndek-in/backend)
+4. 💪 Opened PR [#15](https://github.com/pndek-in/backend/pull/15) in [pndek-in/backend](https://github.com/pndek-in/backend)
+5. 🗣 Commented on [#586](https://github.com/nuxt-community/axios-module/issues/586#issuecomment-2309256968) in [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module)
 <!--END_SECTION:activity-->
