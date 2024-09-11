@@ -53,9 +53,9 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#586](https://github.com/nuxt-community/axios-module/issues/586#issuecomment-2309256968) in [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module)
-2. 🗣 Commented on [#39](https://github.com/jarooda/jarooda.github.io/issues/39#issuecomment-2193635653) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-3. 🗣 Commented on [#38](https://github.com/jarooda/jarooda.github.io/issues/38#issuecomment-2191722406) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-4. 🎉 Merged PR [#9](https://github.com/pndek-in/frontend-home/pull/9) in [pndek-in/frontend-home](https://github.com/pndek-in/frontend-home)
-5. 🎉 Merged PR [#8](https://github.com/jarooda/image-manager/pull/8) in [jarooda/image-manager](https://github.com/jarooda/image-manager)
+1. 🎉 Merged PR [#15](https://github.com/pndek-in/backend/pull/15) in [pndek-in/backend](https://github.com/pndek-in/backend)
+2. 💪 Opened PR [#15](https://github.com/pndek-in/backend/pull/15) in [pndek-in/backend](https://github.com/pndek-in/backend)
+3. 🗣 Commented on [#586](https://github.com/nuxt-community/axios-module/issues/586#issuecomment-2309256968) in [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module)
+4. 🗣 Commented on [#39](https://github.com/jarooda/jarooda.github.io/issues/39#issuecomment-2193635653) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+5. 🗣 Commented on [#38](https://github.com/jarooda/jarooda.github.io/issues/38#issuecomment-2191722406) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
 <!--END_SECTION:activity-->
