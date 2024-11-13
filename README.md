@@ -53,9 +53,9 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/qeeqbox/social-analyzer/issues/131#issuecomment-2415871155) in [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
-2. ❗ Opened issue [#131](https://github.com/qeeqbox/social-analyzer/issues/131) in [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
-3. 🎉 Merged PR [#12](https://github.com/pndek-in/frontend-home/pull/12) in [pndek-in/frontend-home](https://github.com/pndek-in/frontend-home)
-4. 🎉 Merged PR [#11](https://github.com/pndek-in/frontend-home/pull/11) in [pndek-in/frontend-home](https://github.com/pndek-in/frontend-home)
-5. 💪 Opened PR [#11](https://github.com/pndek-in/frontend-home/pull/11) in [pndek-in/frontend-home](https://github.com/pndek-in/frontend-home)
+1. 🎉 Merged PR [#42](https://github.com/jarooda/jarooda.github.io/pull/42) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+2. 💪 Opened PR [#42](https://github.com/jarooda/jarooda.github.io/pull/42) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+3. 🗣 Commented on [#131](https://github.com/qeeqbox/social-analyzer/issues/131#issuecomment-2415871155) in [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
+4. ❗ Opened issue [#131](https://github.com/qeeqbox/social-analyzer/issues/131) in [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
+5. 🎉 Merged PR [#12](https://github.com/pndek-in/frontend-home/pull/12) in [pndek-in/frontend-home](https://github.com/pndek-in/frontend-home)
 <!--END_SECTION:activity-->
