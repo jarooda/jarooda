@@ -53,9 +53,9 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/jarooda/jarooda.github.io/pull/50) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-2. 💪 Opened PR [#50](https://github.com/jarooda/jarooda.github.io/pull/50) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-3. 🎉 Merged PR [#49](https://github.com/jarooda/jarooda.github.io/pull/49) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-4. 💪 Opened PR [#49](https://github.com/jarooda/jarooda.github.io/pull/49) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-5. 🎉 Merged PR [#48](https://github.com/jarooda/jarooda.github.io/pull/48) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+1. 🎉 Merged PR [#51](https://github.com/jarooda/jarooda.github.io/pull/51) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+2. 💪 Opened PR [#51](https://github.com/jarooda/jarooda.github.io/pull/51) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+3. 🎉 Merged PR [#50](https://github.com/jarooda/jarooda.github.io/pull/50) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+4. 💪 Opened PR [#50](https://github.com/jarooda/jarooda.github.io/pull/50) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+5. 🎉 Merged PR [#49](https://github.com/jarooda/jarooda.github.io/pull/49) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
 <!--END_SECTION:activity-->
