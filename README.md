@@ -53,9 +53,9 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/pndek-in/frontend-home/pull/14) in [pndek-in/frontend-home](https://github.com/pndek-in/frontend-home)
+1. ❗ Opened issue [#19](https://github.com/pndek-in/backend/issues/19) in [pndek-in/backend](https://github.com/pndek-in/backend)
 2. 🎉 Merged PR [#14](https://github.com/pndek-in/frontend-home/pull/14) in [pndek-in/frontend-home](https://github.com/pndek-in/frontend-home)
-3. 🎉 Merged PR [#59](https://github.com/jarooda/jarooda.github.io/pull/59) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-4. 💪 Opened PR [#59](https://github.com/jarooda/jarooda.github.io/pull/59) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-5. 🎉 Merged PR [#13](https://github.com/pndek-in/frontend-home/pull/13) in [pndek-in/frontend-home](https://github.com/pndek-in/frontend-home)
+3. 🎉 Merged PR [#14](https://github.com/pndek-in/frontend-home/pull/14) in [pndek-in/frontend-home](https://github.com/pndek-in/frontend-home)
+4. 🎉 Merged PR [#59](https://github.com/jarooda/jarooda.github.io/pull/59) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+5. 💪 Opened PR [#59](https://github.com/jarooda/jarooda.github.io/pull/59) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
 <!--END_SECTION:activity-->
