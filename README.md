@@ -53,9 +53,9 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-2. ❌ Assigned PR [#69](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-3. 💪 Opened PR [#69](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-4. ❌ Assigned PR [#68](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-5. 💪 Opened PR [#68](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+1. ❌ Assigned PR [#1](undefined) in [jarooda/md](https://github.com/jarooda/md)
+2. 💪 Opened PR [#1](undefined) in [jarooda/md](https://github.com/jarooda/md)
+3. 💪 Opened PR [#70](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+4. ❌ Assigned PR [#69](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+5. 💪 Opened PR [#69](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
 <!--END_SECTION:activity-->
