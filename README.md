@@ -53,9 +53,9 @@
 </details>
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#1](undefined) in [jarooda/md](https://github.com/jarooda/md)
-2. 💪 Opened PR [#1](undefined) in [jarooda/md](https://github.com/jarooda/md)
-3. 💪 Opened PR [#70](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-4. ❌ Assigned PR [#69](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
-5. 💪 Opened PR [#69](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+1. 🗣 Commented on [#4](https://github.com/wwwwebdev/mkp/issues/4#issuecomment-3571186374) in [wwwwebdev/mkp](https://github.com/wwwwebdev/mkp)
+2. ❌ Assigned PR [#1](undefined) in [jarooda/md](https://github.com/jarooda/md)
+3. 💪 Opened PR [#1](undefined) in [jarooda/md](https://github.com/jarooda/md)
+4. 💪 Opened PR [#70](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
+5. ❌ Assigned PR [#69](undefined) in [jarooda/jarooda.github.io](https://github.com/jarooda/jarooda.github.io)
 <!--END_SECTION:activity-->
