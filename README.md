@@ -9,7 +9,7 @@
         href="https://jaluwibowo.id"
         >Jalu</a
       ></b
-    >. <br />Frontend Engineer in Sekolah.mu<br />
+    >. <br />Software Engineer that searching for jobs~<br />
   </samp>
 </p>
 
